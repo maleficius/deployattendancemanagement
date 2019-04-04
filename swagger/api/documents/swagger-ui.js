@@ -6749,7 +6749,7 @@ var Operation = module.exports = function (parent, scheme, operationId, httpMeth
       this.host = window.location.host;
     }
     else {
-      this.host = 'https://deployattendancemanagement.herokuapp.com';
+      this.host = 'https://demohost2.herokuapp.com/';
     }
   }
   this.parameterMacro = parent.parameterMacro || function (operation, parameter) {
