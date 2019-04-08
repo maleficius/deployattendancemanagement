@@ -1,4 +1,4 @@
 export class AppConfig {
-    public apiHost = "https://deployattendancemanagement.herokuapp.com/api";
-    public host = "https://deployattendancemanagement.herokuapp.com";
+    public apiHost = "https://demohost2.herokuapp.com/api";
+    public host = "https://demohost2.herokuapp.com";
 }
